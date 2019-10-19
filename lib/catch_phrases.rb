@@ -21,3 +21,8 @@ def any_phrase(phrase)
 end
 
 any_phrase("Do A Barrel Roll!")
+
+def any_phrase(phrase)
+  catch_phrase = "Do A Barrel Roll!"
+  any_phrase(phrase)
+end
