@@ -14,15 +14,3 @@ def link
   popular_catch_phrase = "It's Dangerous To Go Alone! Take This."
   puts popular_catch_phrase
 end
-
-
-#def any_phrase(phrase)
-#  puts any_phrase
-#end
-
-#any_phrase("Do A Barrel Roll!")
-
-def any_phrase(phrase)
-  catch_phrase = "Do A Barrel Roll!"
-  any_phrase(phrase)
-end
