@@ -16,11 +16,11 @@ def link
 end
 
 
-def any_phrase(phrase)
-  puts any_phrase
-end
+#def any_phrase(phrase)
+#  puts any_phrase
+#end
 
-any_phrase("Do A Barrel Roll!")
+#any_phrase("Do A Barrel Roll!")
 
 def any_phrase(phrase)
   catch_phrase = "Do A Barrel Roll!"
