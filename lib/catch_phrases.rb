@@ -5,5 +5,16 @@ def mario
 end
 
 def toadstool
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
+end
+
+
+def link
+  puts
+end
+
+
+def any_phrase
+  puts
 end
